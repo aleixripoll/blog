@@ -1,0 +1,24 @@
+---
+layout: post
+title: Superviviente
+by: Chuck Palahniuk
+date: '2011-06-23T17:41:00.002+02:00'
+categories: [ read, ES ]
+image: assets/images/superviviente.webp
+rating: 3.5
+---
+
+Para mi asistente, cuando empezamos hace diez años, yo no era un mangui. Al principio, yo era un caso de desorden obsesivo-compulsivo. Ella acababa de sacarse el título y tenía aún sus libros de texto para demostrarlo.<br />Después de ser un obsesivo-compulsivo, sufrí un desorden de estrés postraumático.
+<p/>
+Luego fui agorafóbico.
+<p/>
+Sufrí ataques crónicos de pánico.
+<p/>
+A los 3 meses escasos de conocer a la asistente, fui un caso de disociación de identidad porque no quise contarle cosas de mi infancia. Luego fui una personalidad esquizoide porque no quise unirme a su grupo de terapia semanal. Luego pensó que podría escribir un buen estudio y sufrí síndrome de Koro, que hace que vivas convencido de que tu pene se hace más y más pequeño, y que cuando desaparezca morirás.
+<p/>
+A cada sesión me diagnosticaba otro problema que creía que podía tener, y me daba un libro para que pudiese estudiar los síntomas.
+<p/>
+No nos fue mal con este sistema. Durante un tiempo. A ella le parecía que avanzábamos con cada semana que pasaba. Yo tenía cada semana un guión que me decía cómo tenía que actuar. No era aburrido, y me dio suficientes problemas de pega para no preocuparme por nada real.
+<p/>
+La asistente me curó de cien síntomas, ninguno real, y anunció luego que estaba curado. Qué contenta y orgullosa estaba. Me había devuelto a la luz del día, completamente curado. Estás curado. Ve en paz. Levántate y anda. Un milagro de la psicología moderna.
+<p/>

@@ -1,6 +1,6 @@
 # Site
-name: "Algú ho havia de dir"
-title: "Algú ho havia de dir"
+name: "Aleix"
+title: "Aleix"
 description: "Personal blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -10,14 +10,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  aleix:
+    name: Aleix
+    display_name: Aleix
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: aleix.ripoll@gmail.com
+    twitter: https://twitter.com/aleix.ripoll
+    description: "The one and only author of this blog."
   john:
     name: John
     display_name: John    
