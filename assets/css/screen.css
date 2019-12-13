@@ -479,6 +479,10 @@ blockquote {
     .post-top-meta.authorpage {
         text-align: center;
     }
+    .container {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
 }
 
 .share,
