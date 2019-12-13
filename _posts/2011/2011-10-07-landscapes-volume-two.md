@@ -12,3 +12,5 @@ image: assets/images/landscape.jpg
 <script src="https://player.vimeo.com/api/player.js"></script>
 <br/>
 <a href="https://vimeo.com/29950141">Landscapes: Volume Two</a> from <a href="https://vimeo.com/dustinfarrell">Dustin Farrell</a> on <a href="https://vimeo.com/">Vimeo</a>.
+
+<i>Photo by Ivana Cajina on Unsplash.</i>
