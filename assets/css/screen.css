@@ -124,6 +124,7 @@ section.recent-posts {
 .listfeaturedtag .card,
 .card-footer {
     border: 0;
+    padding: .5rem 1.25rem;
 }
 
 .listfeaturedtag .thumbnail {
