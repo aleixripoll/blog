@@ -7,4 +7,4 @@ categories: [ draw, EN ]
 image: assets/images/drawings/bob_subway.jpg
 ---
 
-Bob is a plutonian reporter. He came to  Earth because he was bored and had nothing better to do. Bob has a magic  microphone that enhances self-awareness for the time it takes to answer  his questions. This allows Bob to report the truth, even when it’s  hidden under layers of ignorance and self-deception.
+Bob is a plutonian reporter. He came to Earth because he was bored and had nothing better to do. Bob has a magic microphone that enhances self-awareness for the time it takes to answer his questions. This allows Bob to report the truth, even when it’s hidden under layers of ignorance and self-deception.
