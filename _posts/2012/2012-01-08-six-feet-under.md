@@ -7,12 +7,12 @@ image: assets/images/six_feet_under.jpg
 rating: 4
 ---
 
-> Brenda: You know what I think?
+> **Brenda:** You know what I think?
 <br/>
-Nate: About what?
+**Nate:** About what?
 <br/>
-Brenda: I don't know. Life.
+**Brenda:** I don't know. Life.
 <br/>
-Nate: What?
+**Nate:** What?
 <br/>
-Brenda: I think it's all about timing. I think timing is everything.
+**Brenda:** I think it's all about timing. I think timing is everything.
