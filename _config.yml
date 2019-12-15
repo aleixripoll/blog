@@ -13,9 +13,8 @@ authors:
   aleix:
     name: Aleix
     display_name: Aleix
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: aleix.ripoll@gmail.com
-    twitter: https://twitter.com/aleix.ripoll
+    avatar: 'assets/images/avatar.svg'
+    twitter: https://twitter.com/aleix_ripoll
     description: "The one and only author of this blog."
 
 # Plugins
@@ -30,9 +29,11 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
+    - year
   layout: archive
   permalinks:
     category: '/category/:name/'
+    year: '/year/:year/'
     
 # Pagination 
 paginate: 9
