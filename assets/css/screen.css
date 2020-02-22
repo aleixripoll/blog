@@ -931,3 +931,8 @@ iframe {
     width:100%;
     position:absolute;
 }
+
+
+.h1, h1 {
+    font-size: 2rem;
+}
