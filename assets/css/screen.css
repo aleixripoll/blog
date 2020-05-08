@@ -488,6 +488,9 @@ blockquote {
         padding-right: 10px;
         padding-left: 10px;
     }
+    .article-post {
+        font-size: 1rem;
+    }
 }
 
 .share,
