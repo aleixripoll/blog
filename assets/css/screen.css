@@ -490,6 +490,7 @@ blockquote {
     }
     .article-post {
         font-size: 1rem;
+        text-align: justify;
     }
 }
 
