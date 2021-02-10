@@ -5,7 +5,7 @@ by: Douglas Murray
 date: '2020-11-08T14:00:00.000+01:00'
 categories: [ read, ES ]
 image: assets/images/la_masa_enfurecida.jpg
-rating: 4
+rating: 3.5
 ---
 
 Para empezar, deberíamos acostumbrarnos a preguntar: «¿En comparación con qué?». Por ejemplo, cuando alguien califica nuestra sociedad actual de monstruosa, racista, sexista, homófoba, tránsfoba y patriarcal. Si nuestro sistema no funciona, ¿cuál sí funciona? Esto no quiere decir que en nuestra sociedad no haya aspectos mejorables ni que no debamos combatir la injusticia allá donde se encuentre. Solo que, cuando uno habla de nuestras sociedades con ese tono hostil de quien se erige a la vez en juez, jurado y verdugo, tenemos derecho a exigir que se explique.
