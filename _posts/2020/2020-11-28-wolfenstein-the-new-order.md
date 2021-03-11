@@ -4,7 +4,7 @@ title: 'Wolfenstein: The New Order'
 date: '2020-12-04T11:42:00.000+01:00'
 categories: [ play, EN ]
 image: assets/images/wolfenstein_new_order.jpg
-rating: 4.5
+rating: 4
 ---
 
 <b>Set Roth:</b> This woman. I knew her well. Resilient. A will of iron. Her family all gone, all of them and yet... Faith. Faith kept her going. I, I cannot believe with such certainty. For me, in everything, there must be doubt. Otherwise, there's no room to question, to learn. This place. This is the fruit of unquestioned, ferocious conviction. This is where absolute certainty leads.
